@@ -1,5 +1,5 @@
-* **关于本站**
-* **本站API项目**
+* 关于本站
+* 本站API项目
   * [获取网站图标](api/favicon.md)
   * [IP查询](api/ip.md)
   * [Bing每日壁纸](api/bing.md)
@@ -9,5 +9,5 @@
   * [舔狗日志](api/tian.md)
   * [随机图片](api/rimg.md)
   * [网址缩短](api/shorturl.md)
-* [**公共API**](pubapi.md)
+* [公共API](pubapi.md)
 
