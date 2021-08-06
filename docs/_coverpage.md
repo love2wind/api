@@ -10,5 +10,5 @@
 
 [博客](https://love2wind.cn)
 [书苑](https://nicepub.top)
-[开始](/?id=🎉关于本站)
+[快速上手](/?id=🎉关于本站)
 
