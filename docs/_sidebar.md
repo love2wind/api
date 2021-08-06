@@ -1,4 +1,4 @@
-* 关于本站
+* 快速上手 
 * 本站API项目
   * [获取网站图标](api/favicon.md)
   * [IP查询](api/ip.md)
