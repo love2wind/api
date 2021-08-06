@@ -1,4 +1,4 @@
-<div style=""><img src="https://cdn.jsdelivr.net/gh/love2wind/cloudimg/img/f10b341e6fbbddc879b40f03c05fab1c.png" alt="logo" style="zoom:80%;margin:0px auto;algin:center;display:block;" /></div>
+<div style=""><img src="https://cdn.jsdelivr.net/gh/love2wind/cloudimg/img/f10b341e6fbbddc879b40f03c05fab1c.png" alt="logo" style="zoom:60%;margin:0px auto;algin:center;display:block;" /></div>
 
 <h1 style="text-align:center;margin:25px auto;display: block;">NIE API <small>v1.5</small></h1>
 
