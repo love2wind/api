@@ -8,5 +8,6 @@
   * [毒鸡汤](api/du.md)
   * [舔狗日志](api/tian.md)
   * [随机图片](api/rimg.md)
+  * [网址缩短](api/shorturl.md)
 * [**公共API**](pubapi.md)
 
