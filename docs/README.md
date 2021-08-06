@@ -1,7 +1,3 @@
-<div style=""><img src="https://cdn.jsdelivr.net/gh/love2wind/cloudimg/img/f10b341e6fbbddc879b40f03c05fab1c.png" alt="logo" style="zoom:60%;margin:0px auto;algin:center;display:block;" /></div>
-
-<h1 style="text-align:center;margin:25px auto;display: block;">NIE API</h1>
-
 # 🎉关于本站
 
 ?> 涅槃的个人API站，用于介绍本站搭建的API项目以及收集网络上的公共API项目。。。
